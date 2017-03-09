@@ -1,8 +1,8 @@
 GIT
-  remote: git://github.com/charlon/uw-2014-jekyll.git
-  revision: bf4ae3565505a4bfbe8b14dafebc6b9d66893fb4
+  remote: git://github.com/charlon/uw-jekyll.git
+  revision: 7bc0dac53cfda8322d9ea9a0669234fba8e62a30
   specs:
-    uw-2014-jekyll (0.1.0)
+    uw-jekyll (0.1.0)
       jekyll (~> 3.4)
 
 GEM
@@ -78,7 +78,7 @@ DEPENDENCIES
   jekyll-admin
   jekyll-feed (~> 0.6)
   tzinfo-data
-  uw-2014-jekyll!
+  uw-jekyll!
 
 RUBY VERSION
    ruby 2.0.0p648
