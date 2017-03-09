@@ -1,7 +1,7 @@
 ---
 title: Char Rocks!
-layout: page
+layout: small-hero
 permalink: /char/
 ---
 
-Look at this thing he did! Just look at it.
+Look at this thing he did! Just look at it. asdlkfj

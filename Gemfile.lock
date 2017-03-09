@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/charlon/uw-jekyll.git
-  revision: 7bc0dac53cfda8322d9ea9a0669234fba8e62a30
+  revision: af56c739461c4527ff70e9ec4598e153e2bf1b7e
   specs:
     uw-jekyll (0.1.0)
       jekyll (~> 3.4)

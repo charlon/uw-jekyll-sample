@@ -1,11 +1,9 @@
 ---
-layout: page
+layout: big-hero
 title: home
 ---
 
 <div class="home">
-
-    <h1 class="page-heading">Posssts</h1>
 
     <p>welcome to jekyll!</p>
 
